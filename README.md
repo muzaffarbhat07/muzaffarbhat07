@@ -9,9 +9,9 @@
 
 ### My Coding Profiles:
 
-[<img align="left" alt="muzaffarbhat | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />][geeksforgeeks]
-[<img align="left" alt="muzaffarbhat | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
-[<img align="left" lt="muzaffarbhat | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef]
+[<img align="left" alt="muzaffarbhat | GFG" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" />][geeksforgeeks]
+[<img align="left" alt="muzaffarbhat | LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />][leetcode]
+[<img align="left" lt="muzaffarbhat | CodeChef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef]
 
 <br />
 
