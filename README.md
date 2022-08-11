@@ -5,7 +5,7 @@
 - 👀 I’m interested in anything involving coding.
 - 🌱 I’m currently learning web development and constantly working on my problem solving abilities.
 - 💞️ I’m looking to collaborate with other developers to solve some real world problems.
-- 🥅 2021 Goals: Contribute to Open Source projects.
+- 🥅 2022 Goals: Contribute to Open Source projects.
 
 ### My Coding Profiles:
 
