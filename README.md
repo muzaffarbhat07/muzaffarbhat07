@@ -1,11 +1,11 @@
 ### 👋 Hi there, I’m Muzaffar.
 
 
-## I'm a developer and a problem solving freak.
+## I'm a software developer and a problem solving freak.
 - 👀 I’m interested in anything involving coding.
-- 🌱 I’m currently learning web development and constantly working on my problem solving abilities.
-- 💞️ I’m looking to collaborate with other developers to solve some real world problems.
-- 🥅 2022 Goals: Contribute to Open Source projects.
+- 🌱 I’m currently working as full time SDE and constantly improving on my problem solving abilities.
+- 💞️ I’m looking to collaborate with other developers part time to solve some real world problems.
+- 🥅 2023 Goals: Contribute to Open Source projects.
 
 ### My Coding Profiles:
 
