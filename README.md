@@ -3,9 +3,9 @@
 
 ## I'm a software developer and a problem solving freak.
 - 👀 I’m interested in anything involving coding.
-- 🌱 I’m currently working as full time SDE and constantly improving on my problem solving abilities.
+- 🌱 I’m currently working as full time SDE.
 - 💞️ I’m looking to collaborate with other developers part time to solve some real world problems.
-- 🥅 2023 Goals: Contribute to Open Source projects.
+- 🥅 2024 Goals: Contribute to Open Source projects.
 
 ### My Coding Profiles:
 
