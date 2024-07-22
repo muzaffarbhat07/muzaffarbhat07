@@ -1,4 +1,4 @@
-### Hey there 👋, I am Muzaffar.
+### Hey there 👋, I am Muzaffar Bhat.
 
 I'm a **Fullstack Software Developer**.
 
