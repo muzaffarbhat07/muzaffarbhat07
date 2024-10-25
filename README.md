@@ -22,9 +22,7 @@ GitHub Stats
 ------------
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=muzaffarbhat07&theme=gruvbox)](https://git.io/streak-stats)
-<!--
 [![Muzaffar's GitHub stats](https://github-readme-stats.vercel.app/api?username=muzaffarbhat07&show_icons=true&include_all_commits=true&count_private=true&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/muzaffarbhat07)
--->
 
 [![Muzaffar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muzaffarbhat07&layout=compact&langs_count=12&title_color=ffffff&hide=html,css&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)](https://github.com/muzaffarbhat07)
 
